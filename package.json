@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@vtfk/pdf-splitter": "^1.1.2",
+    "dotenv": "^16.4.7"
+  }
+}
